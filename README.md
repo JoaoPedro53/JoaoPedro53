@@ -1,4 +1,4 @@
-#  ![image](https://github.com/user-attachments/assets/2b7f9b0b-9cde-4af6-9279-7311fb71c1e6) João Pedro
+#  ![icons8-desenvolvedor-35](https://github.com/user-attachments/assets/b3b6373d-7873-42b1-9ca9-e52d92701f6b) João Pedro
 
 **`T.I = / Aux. de T.I / Dev`**
 
