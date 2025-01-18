@@ -1,8 +1,14 @@
-#  ![icons8-desenvolvedor-35](https://github.com/user-attachments/assets/b3b6373d-7873-42b1-9ca9-e52d92701f6b) João Pedro
+#  👨🏽‍💻 João Pedro
 
 **`T.I / Aux. de T.I / Dev`**
 
 Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, juntamente com o curso técnico em informática.
+
+<div> 
+  <a href="https://www.instagram.com/jpsv.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopedrolink" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
@@ -84,3 +90,5 @@ Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, j
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
+
+  
