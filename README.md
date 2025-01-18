@@ -1,6 +1,6 @@
-# 👩🏻‍💻 João Pedro
+#  ![image](https://github.com/user-attachments/assets/2b7f9b0b-9cde-4af6-9279-7311fb71c1e6) João Pedro
 
-**`T.I`**
+**`T.I = / Aux. de T.I / Dev`**
 
 Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, juntamente com o curso técnico em informática.
 
