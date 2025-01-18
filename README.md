@@ -1,6 +1,6 @@
 #  ![icons8-desenvolvedor-35](https://github.com/user-attachments/assets/b3b6373d-7873-42b1-9ca9-e52d92701f6b) João Pedro
 
-**`T.I = / Aux. de T.I / Dev`**
+**`T.I / Aux. de T.I / Dev`**
 
 Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, juntamente com o curso técnico em informática.
 
