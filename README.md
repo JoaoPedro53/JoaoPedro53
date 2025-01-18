@@ -91,4 +91,6 @@ Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, j
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
 
+   ![snake gif](https://github.com/JoaoPedro53/JoaoPedro53/blob/output/github-contribution-grid-snake.svg)
+
   
