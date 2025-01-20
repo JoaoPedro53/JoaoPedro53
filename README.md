@@ -1,6 +1,6 @@
 #  👨🏽‍💻 João Pedro
 
-**`T.I / Aux. de T.I / Dev`**
+**`Tec. em Informática / Dev`**
 
 Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, juntamente com o curso técnico em informática.
 
