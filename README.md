@@ -1,8 +1,8 @@
 #  👨🏽‍💻 João Pedro
 
-**`Tec. em Informática / Dev`**
+**`Dev | Téc. em TI`**
 
-Me chamo João Pedro, tenho 18 anos. Estou concluindo o ensino médio no IFAL, juntamente com o curso técnico em informática.
+
 
 <div> 
   <a href="https://www.instagram.com/jpsv.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
