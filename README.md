@@ -40,14 +40,6 @@
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -90,7 +82,4 @@
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
-
-   ![snake gif](https://github.com/JoaoPedro53/JoaoPedro53/blob/output/github-contribution-grid-snake.svg)
-
   
