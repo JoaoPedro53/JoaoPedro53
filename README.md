@@ -1,6 +1,6 @@
 #  👨🏽‍💻 João Pedro
 
-**`Dev | Téc. em TI`**
+**`Desenvolvedor Back-End`**
 
 
 
