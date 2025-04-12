@@ -86,7 +86,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100"
+      height="150"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
   />
