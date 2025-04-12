@@ -5,9 +5,9 @@
 
 
 <div> 
-  <a href="https://www.instagram.com/jpsv.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopedrolink" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/jpsv.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopedrolink" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href=""><img src="https://custom-icon-badges.demolab.com/badge/-%20Meu%20Portif%C3%B3lio-black?style=for-the-badge&logoColor=white&logo=repo"></a>
 </div>
 
 ---
