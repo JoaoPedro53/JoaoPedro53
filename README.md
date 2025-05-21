@@ -1,6 +1,6 @@
 #  👨🏽‍💻 João Pedro
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End | Java☕`**
 
 Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento, com foco específico em Back-End. Tenho desenvolvido projetos e me aperfeiçoado na linguagem Java. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
 
