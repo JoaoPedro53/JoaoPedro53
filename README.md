@@ -5,7 +5,7 @@
 Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento, com foco específico em Back-End. Tenho desenvolvido projetos e me aperfeiçoado na linguagem Java. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
 
 <div> 
-  <a href="https://www.instagram.com/jpsv.1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jota.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaopedrolink" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=""><img src="https://custom-icon-badges.demolab.com/badge/-%20Meu%20Portif%C3%B3lio-black?style=for-the-badge&logoColor=white&logo=repo"></a>
 </div>
