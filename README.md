@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack | Java ☕`**
 
-Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando  e me aperfeiçoado na linguagem Java. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
+Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando e me aperfeiçoando na linguagem Java. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
 
 <div> 
   <a href="https://www.instagram.com/jota.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
