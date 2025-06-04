@@ -7,7 +7,7 @@ Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no
 <div> 
   <a href="https://www.instagram.com/jota.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/devjota" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="jotajar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Minhas Redes-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://jotajar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Minhas Redes-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
