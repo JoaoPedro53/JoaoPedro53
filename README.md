@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou João Pedro</h1>
+<h1 align="center">👋 Olá, eu sou o João Pedro</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando e me aperfeiçoando na linguagem Java, entre outras... Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
+Em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Fullstack, com foco maior em Backend. Tenho dedicado meus estudos e aperfeiçoamento à linguagem Java, entre outras tecnologias. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL, ampliando meus conhecimentos na área.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devjota" target="_blank">
