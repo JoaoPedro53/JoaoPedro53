@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Pedro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mim
