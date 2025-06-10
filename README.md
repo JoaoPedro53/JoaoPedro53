@@ -1,93 +1,55 @@
-#  👨🏽‍💻 João Pedro
+<h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
 
-**`Desenvolvedor Fullstack | Java ☕`**
-
-Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando e me aperfeiçoando na linguagem Java, entre outras... Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
-
-<div> 
-  <a href="https://www.instagram.com/jota.jar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devjota" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://jotajar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Minhas Redes-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Py" 
-    title="Py"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Js" 
-    title="Js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-<br/>
-<br/>
+🎓 Sou um(a) [sua formação ou área de estudo] com foco em [tecnologias ou áreas de interesse].
 
-### 📊 Estatísticas
+💼 Atualmente estou trabalhando em [empresa/projeto]  
+🌱 Aprendendo: [tecnologia atual que está aprendendo]  
+🧠 Interesses: [seus interesses na tecnologia]  
+💬 Me pergunte sobre: [temas que domina]  
+📫 Como me encontrar: [e-mail, LinkedIn, etc.]
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPedro53&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7"
-  />
-  
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+*Adicione mais conforme suas habilidades!*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🧩 Projetos em Destaque
+
+- [📌 Projeto 1](link) – descrição rápida
+- [📌 Projeto 2](link) – descrição rápida
+- [📌 Projeto 3](link) – descrição rápida
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:seuemail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](https://seuportfolio.com)
