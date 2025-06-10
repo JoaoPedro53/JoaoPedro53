@@ -36,5 +36,5 @@ Em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualm
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro53&show_icons=true&theme=radical" width="45%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&layout=compact&theme=radical" width="40.5%" />
 </p>
