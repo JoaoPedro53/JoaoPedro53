@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando e me aperfeiçoando na linguagem Java, entre outras... Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
+Me chamo João Pedro, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha jornada no desenvolvimento Fullstack, com uma maior ênfase em Backend. Venho estudando e me aperfeiçoando na linguagem Java, entre outras... Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devjota" target="_blank">
@@ -36,5 +36,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro53&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&layout=compact&theme=radical" width="40.5%" />
 </p>
