@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o João Pedro</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Entusiasta+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Entusiasta+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre mim
 
-Em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Fullstack, com foco maior em Backend. Tenho dedicado meus estudos e aperfeiçoamento à linguagem Java, entre outras tecnologias. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL, ampliando meus conhecimentos na área.
+Em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Backend. Tenho dedicado meus estudos e aperfeiçoamento à linguagem Java, entre outras tecnologias. Além disso, estou cursando a graduação em Sistemas para Internet na UNCISAL, ampliando meus conhecimentos na área.
 
 </p>
 
