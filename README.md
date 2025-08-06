@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Backend e dedicando meus estudos ao aperfeiçoamento da linguagem Java, além de outras tecnologias. Também estou cursando a graduação em Sistemas para Internet na UNCISAL, o que tem ampliado meus conhecimentos na área.
+Meu nome é João Pedro e, em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Backend e dedicando meus estudos aprofundados na linguagem Java, não somente, também venho conhecendo outras outras linguagens e tecnologias. Também estou cursando a graduação em Sistemas para Internet na UNCISAL, o que vem ampliando meus conhecimentos na área.
 
 </p>
 
