@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **João Pedro S. Vieira**
 
-```Desenvolvedor Back-End```
+```Desenvolvedor Back-end```
 
 Cursando Sistemas para Internet (2° Semestre), na Universidade Estadual de Ciências da Saúde de Alagoas. Apaixonado por Tecnologia, Jogos, Esportes e transformar ideias em código..
 
