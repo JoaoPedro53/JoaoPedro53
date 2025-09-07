@@ -7,7 +7,7 @@ Cursando Sistemas para Internet (2° Semestre), na Universidade Estadual de Ciê
 Veja mais sobre mim no meu [Portifólio](https://rep-joao.vercel.app)
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,git,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,git,html,css,figma)](https://skillicons.dev)
 
 ### Minhas redes
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jota.jar/#)
