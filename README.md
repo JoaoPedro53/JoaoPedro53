@@ -1,28 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o João Pedro</h1>
+## 👨🏻‍💻 **João Pedro S. Vieira**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Entusiasta+de+Tecnologia;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
-</p>
+```Desenvolvedor Back-End```
 
-## 🚀 Sobre mim
+Cursando Sistemas para Internet (2° Semestre), na Universidade Estadual de Ciências da Saúde de Alagoas. Apaixonado por Tecnologia, Jogos, Esportes e transformar ideias em código..
 
-Meu nome é João Pedro e, em 2024, concluí o curso Técnico em Informática para Internet no IFAL. Atualmente, estou iniciando minha carreira como desenvolvedor Backend e dedicando meus estudos aprofundados na linguagem Java, não somente, também venho conhecendo outras outras linguagens e tecnologias. Também estou cursando a graduação em Sistemas para Internet na UNCISAL, o que vem ampliando meus conhecimentos na área.
+Veja mais sobre mim no meu [Portifólio](https://rep-joao.vercel.app)
 
-</p>
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,git,html,css)](https://skillicons.dev)
 
-## 🤖 Linguagens & Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" hspace="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" hspace="7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro53&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro53&layout=compact&theme=radical" width="34.2%" />
-</p>
+###### Minhas redes
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jota.jar/#)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pedrosnt/)
