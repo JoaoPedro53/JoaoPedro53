@@ -1,4 +1,4 @@
-## 👨🏻‍💻 **João Pedro S. Vieira**
+## 👨🏻‍💻 **J. Pedro Santos**
 
 ```Desenvolvedor Back-end```
 
