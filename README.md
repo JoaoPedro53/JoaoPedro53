@@ -2,7 +2,7 @@
 
 ``` Desenvolvedor Back-end | Java ```
 
-Cursando Sistemas para Internet (2° Semestre), na Universidade Estadual de Ciências da Saúde de Alagoas. Apaixonado por Tecnologia, Jogos, Esportes e transformar ideias em código...
+Cursando Sistemas de Informação (1° Semestre), na Instituto Federal de Alagoas. Apaixonado por Tecnologia, Jogos, Esportes e transformar ideias em código...
 
 Veja mais sobre mim no meu [Portifólio](https://rep-joao.vercel.app)
 
