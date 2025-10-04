@@ -4,8 +4,6 @@
 
 Cursando Sistemas de Informação (1° Semestre), na Instituto Federal de Alagoas. Apaixonado por Tecnologia, Jogos, Esportes e transformar ideias em código...
 
-Veja mais sobre mim no meu [Portifólio](https://rep-joao.vercel.app)
-
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,git,html,css)](https://skillicons.dev)
 
