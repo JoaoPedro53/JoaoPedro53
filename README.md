@@ -2,6 +2,8 @@
 
 ``` Desenvolvedor Back-end | Java ```
 
+Acad. S.I (2° Período)
+
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,mysql,git,html,css)](https://skillicons.dev)
 
