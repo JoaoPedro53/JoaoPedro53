@@ -3,4 +3,4 @@
 <hr>
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,git,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,html,css)](https://skillicons.dev)
