@@ -5,8 +5,9 @@
 
 <hr>
 
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 Stack</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,js,typescript,html,css" />
+</div>
 </p>
