@@ -8,5 +8,5 @@
 <h3>🚀 Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,js,typescript,html,css" />
 </p>
