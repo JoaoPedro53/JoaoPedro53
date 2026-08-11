@@ -1,5 +1,5 @@
 <p align="left">
-  👨‍💻 <strong>Fullstack Developer</strong> <br>
+  👨‍💻 <strong>Backend Developer</strong> <br>
   🎓 <strong>BSc in Information Systems 3°</strong> – IFAL
 </p>
 
