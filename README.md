@@ -8,6 +8,6 @@
 <h3>🚀 Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,typescript,spring,nest,docker,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,typescript,spring,nest,docker,html,css" />
 </div>
 </p>
